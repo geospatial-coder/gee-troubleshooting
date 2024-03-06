@@ -1,6 +1,6 @@
 # gee-troubleshooting
 
-```
+```javascript
 var geometry = 
     /* color: #d63000 */
     /* displayProperties: [
