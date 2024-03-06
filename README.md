@@ -1,5 +1,9 @@
 # gee-troubleshooting
 
+
+This repo blah blah blah..........
+
+
 ```javascript
 var geometry = 
     /* color: #d63000 */
@@ -52,5 +56,5 @@ var geometry =
             {
               "system:index": "6"
             })]);
-
 ```
+[image](gee troubleshooitng.png)
