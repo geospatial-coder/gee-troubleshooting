@@ -57,4 +57,4 @@ var geometry =
               "system:index": "6"
             })]);
 ```
-[image](gee troubleshooitng.png)
+![image](gee troubleshooitng.png)
