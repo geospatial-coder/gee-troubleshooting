@@ -57,4 +57,4 @@ var geometry =
               "system:index": "6"
             })]);
 ```
-![image](gee troubleshooitng.png)
+![image](https://github.com/geospatial-coder/gee-troubleshooting/blob/main/gee%20troubleshooitng.png)
