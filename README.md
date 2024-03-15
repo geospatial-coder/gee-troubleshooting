@@ -60,3 +60,5 @@ var geometry =
 ![image](https://github.com/geospatial-coder/gee-troubleshooting/blob/main/gee%20troubleshooitng.png)
 
 [This is a link](https://github.com/geospatial-coder/gee-troubleshooting/blob/main/imgcollection.js)
+
+[gee code link] (https://code.earthengine.google.com/6e8a21c2640d3411262b6f621f840032) 
